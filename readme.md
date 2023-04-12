@@ -22,15 +22,20 @@
 
 <span><strong>Add this come in Launch Options</strong></span>
 
-> +exec autoexec -console -novid -nojoy -tickrate 128 -freq 144 -high
+CODE -> `+exec autoexec -console -novid -nojoy -tickrate 128 -freq 144 -high`
 
--novid
-Turns off the intro videos, saving you precious seconds every time you boot into the game.
--nojoy
-Disables joystick support to free up resources
--tickrate
-Tick Rate is, essentially, the frequency at which a server processes updates and information in a game. Default is 64 🥲
--freq
-Monitor frequency rate
--high
-is game quality
+> </br>
+> -novid
+> Turns off the intro videos, saving you precious seconds every time you boot into the game.
+> </br>
+> -nojoy
+> Disables joystick support to free up resources
+> </br>
+> -tickrate
+> Tick Rate is, essentially, the frequency at which a server processes updates and information in a game. Default is 64 🥲
+> </br>
+> -freq
+> Monitor frequency rate
+> </br>
+> -high
+> is game quality
