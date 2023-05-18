@@ -39,3 +39,4 @@ CODE -> `+exec autoexec -console -novid -nojoy -tickrate 128 -freq 144 -high`
 > </br>
 > -high
 > is game quality
+> CSGO-srtnv-pSOWf-8NEwP-P7afX-rqRBD
